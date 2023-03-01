@@ -7,6 +7,6 @@
 
 | type |  cost(ms) |
 | ---- | ---- |
-| robin_hood::unordered_set | 1624 |
-| std::unordered_set | 496 |
+| robin_hood::unordered_set | 496 |
+| std::unordered_set | 1624 |
 
