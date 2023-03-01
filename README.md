@@ -7,6 +7,10 @@
 code:https://github.com/emp-toolkit/emp-ot/blob/master/emp-ot/np.h
 paper:Moni Naor and Benny Pinkas. Efficient oblivious transfer pro- tocols. In S. Rao Kosaraju, editor, Proceedings of the Twelfth Annual Symposium on Discrete Algorithms, January 7-9, 2001, Washington, DC, USA, pages 448–457. ACM/SIAM, 2001.
 
+CO
+The Simplest Protocol for Oblivious Transfer
+https://eprint.iacr.org/2015/267.pdf
+
 ##ote
 [IKNP03]:
 code:
