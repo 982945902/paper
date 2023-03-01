@@ -1,9 +1,12 @@
 ## robin_hood
 
-##benchmark
-100w emplace/count vs std unordered
+### unordered_set
 
-###unordered_set
+#### benchmark
+`100w emplace/count
 
-std cost:1624ms
-robin_hood cost:496ms
+| type |  cost(ms) |
+| ---- | ---- |
+| robin_hood::unordered_set | 1624 |
+| std::unordered_set | 496 |
+
