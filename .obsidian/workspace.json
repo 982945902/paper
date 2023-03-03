@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b31521f22de006b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "symmetric/symmetric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "struct/hash map.md",
+                "file": "symmetric/symmetric.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "struct/hash map.md",
+                "file": "symmetric/symmetric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "struct/hash map.md"
+                "file": "symmetric/symmetric.md"
               }
             }
           }
@@ -195,13 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e75cd72d094b4b0d",
+  "active": "b31521f22de006b3",
   "lastOpenFiles": [
-    "he/he.md",
-    "ot/ot.md",
-    "struct/hash map.md",
+    "Pasted image 20230303151542.png",
+    "Pasted image 20230303151531.png",
+    "Pasted image 20230303151512.png",
+    "symmetric/symmetric.md",
     "psi/psi.md",
-    "README.md",
-    "Untitled.md"
+    "ot/ot.md",
+    "he/he.md",
+    "struct/hash map.md",
+    "Untitled.md",
+    "README.md"
   ]
 }
